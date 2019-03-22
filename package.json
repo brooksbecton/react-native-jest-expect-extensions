@@ -21,6 +21,7 @@
     "react-test-renderer": "^16.8.4"
   },
   "jest": {
-    "preset": "jest-expo"
+    "preset": "jest-expo",
+    "setupTestFrameworkScriptFile": "<rootDir>/setupTests.js"
   }
 }
