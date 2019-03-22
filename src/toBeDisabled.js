@@ -1,5 +1,4 @@
 // @flow
-import { ExpectReturnValue } from "./flow-typed";
 import { ReactTestInstance } from "react-test-renderer";
 
 export function toBeDisabled(
